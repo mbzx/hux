@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Hux Blog
 
 ###[View Live Hux Blog &rarr;](http://huxpro.github.io)
@@ -295,3 +296,6 @@ So, the SEO Title is introduced to solve this problem, you can set `SEOTitle` di
 
 This theme is forked from [IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll)  
 Thanks Jekyll and Github Pages!
+=======
+# mbzx.github.io
+>>>>>>> 74eec946554a0cd24b25475ca728fbbe14540323
